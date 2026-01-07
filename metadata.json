@@ -1,0 +1,5 @@
+{
+  "name": "TP ESMS & CMS Cloud Solution",
+  "description": "A Cloud-Native, Multi-tenant Enterprise Student Management System (ESMS) with a segregated Case Management System (CMS) for Temasek Polytechnic, featuring RBAC, Data Masking, and Interface Monitoring.",
+  "requestFramePermissions": []
+}
